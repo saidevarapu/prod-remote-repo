@@ -3,3 +3,4 @@ bat
 ball
 stumps
 pitch
+batsman
