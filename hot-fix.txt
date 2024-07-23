@@ -4,3 +4,4 @@ ball
 stumps
 pitch
 batsman
+bowler
