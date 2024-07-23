@@ -1,3 +1,4 @@
 IAS
 bat
 ball
+stumps
